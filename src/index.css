@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-heading: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-brand-green-50: #f0fdf4;
+  --color-brand-green-100: #dfebd5;
+  --color-brand-green-200: #bcdaaa;
+  --color-brand-green-500: #1ba060;
+  --color-brand-green-600: #12824c;
+  --color-brand-green-700: #0d6439;
+  --color-brand-green-800: #094727;
+  --color-brand-green-900: #06311b;
+  --color-brand-green-950: #03140b;
+}
+
+/* Custom scrollbar and subtle transitions */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f8fafc;
+  color: #1e293b;
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: var(--font-heading);
+}
+
+.mono-display {
+  font-family: var(--font-mono);
+}
+
+/* Simulate dynamic scanning beam animation */
+@keyframes scanning-pulse {
+  0% {
+    top: 5%;
+    opacity: 0.8;
+  }
+  50% {
+    top: 95%;
+    opacity: 0.8;
+  }
+  100% {
+    top: 5%;
+    opacity: 0.8;
+  }
+}
+
+.animate-scan-beam {
+  animation: scanning-pulse 2.5s infinite linear;
+}
+
+/* Smooth ripple */
+@keyframes subtle-ripple {
+  0% {
+    transform: scale(0.95);
+    opacity: 0.5;
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(0.95);
+    opacity: 0.5;
+  }
+}
+
+.animate-ripple {
+  animation: subtle-ripple 4s infinite ease-in-out;
+}
