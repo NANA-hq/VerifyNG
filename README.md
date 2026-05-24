@@ -73,6 +73,7 @@ VerifyNG is built using modern web technologies including:
 - AI-powered assistance integration
 - GitHub for version control
 - Google AI Studio
+- Vercel for deployment
 
 The Problem We’re Solving
 Millions of consumers unknowingly purchase fake or unsafe products due to:
