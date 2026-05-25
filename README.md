@@ -63,6 +63,7 @@ The long-term vision is to:
 
 
 Tech Stack
+
 VerifyNG is built using modern web technologies including:
 
 - HTML5
@@ -75,7 +76,8 @@ VerifyNG is built using modern web technologies including:
 - Google AI Studio
 - Vercel for deployment
 
-The Problem We’re Solving
+The Problem We’re Solving:
+
 Millions of consumers unknowingly purchase fake or unsafe products due to:
 - lack of accessible verification systems
 - low public awareness
@@ -85,7 +87,8 @@ Millions of consumers unknowingly purchase fake or unsafe products due to:
 This creates risks to health, safety, and trust.
 VerifyNG provides a faster and smarter solution.
 
-Our Solution
+Our Solution:
+
 VerifyNG bridges the gap between consumers and trusted product information through:
 - instant verification tools
 - real-time scanning
@@ -95,7 +98,8 @@ VerifyNG bridges the gap between consumers and trusted product information throu
 
 The goal is simple: Help consumers verify before they trust.
 
-Future Plans
+Future Plans:
+
 - Expanded national product database
 - Mobile application release
 - QR verification system
@@ -104,11 +108,12 @@ Future Plans
 - Retailer verification partnerships
 - Advanced AI fraud detection
 
-Status
+Status:
 
 VerifyNG is currently under active development and continuous improvement.
 
 
-Contributing
+Contributing:
+
 Contributions, feedback, and ideas are welcome.
 Together, we can build a safer consumer ecosystem.
