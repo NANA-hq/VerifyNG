@@ -11,7 +11,7 @@ Counterfeit and unsafe products remain a major challenge across Nigeria, affecti
 - beverages
 - household products
 
-Many consumers cannot easily confirm whether a product is authentic, NAFDAC-approved, or potentially harmful before purchase or use due to
+Many consumers cannot easily confirm whether a product is authentic, NAFDAC-approved, or potentially harmful before purchase or use due to:
 - lack of accessible verification systems
 - low public awareness
 - poor transparency
@@ -22,8 +22,8 @@ VerifyNG provides a faster and smarter solution.
 VerifyNG was created to make product safety checks faster, easier, and more accessible to everyday users.
 
 What Users Can Do
-Users can:
 
+Users can:
 - Scan product barcodes instantly
 - Verify NAFDAC registration numbers
 - Check product safety information
