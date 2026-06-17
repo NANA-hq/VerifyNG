@@ -39,22 +39,16 @@ What Users Can Do, users can:
 
 - Smart Barcode Scanner
 Instantly scans products using the device camera for quick verification.
-
 - AI Safety Assistant
 Interactive assistant that helps users understand ingredients, safety risks, and product information.
-
 - Counterfeit Reporting
 Users can report fake or suspicious products directly through the platform.
-
 - Safety Insights
 Provides product verification data and consumer safety statistics.
-
 - Fully Responsive Design
 Optimized for desktop, tablet, and mobile devices.
-
 - Secure & Accessible
 Built with modern web technologies and HTTPS support for secure camera access and safer browsing.
-
 
 The Vision:
 
