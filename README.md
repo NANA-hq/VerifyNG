@@ -11,7 +11,14 @@ Counterfeit and unsafe products remain a major challenge across Nigeria, affecti
 - beverages
 - household products
 
-Many consumers cannot easily confirm whether a product is authentic, NAFDAC-approved, or potentially harmful before purchase or use.
+Many consumers cannot easily confirm whether a product is authentic, NAFDAC-approved, or potentially harmful before purchase or use due to
+- lack of accessible verification systems
+- low public awareness
+- poor transparency
+- limited real-time product validation tools
+
+This creates risks to health, safety, and trust.
+VerifyNG provides a faster and smarter solution.
 VerifyNG was created to make product safety checks faster, easier, and more accessible to everyday users.
 
 What Users Can Do
@@ -31,22 +38,22 @@ Users can:
 
  Key Features
 
-Smart Barcode Scanner
+- Smart Barcode Scanner
 Instantly scans products using the device camera for quick verification.
 
-AI Safety Assistant
+- AI Safety Assistant
 Interactive assistant that helps users understand ingredients, safety risks, and product information.
 
-Counterfeit Reporting
+- Counterfeit Reporting
 Users can report fake or suspicious products directly through the platform.
 
-Safety Insights
+- Safety Insights
 Provides product verification data and consumer safety statistics.
 
-Fully Responsive Design
+- Fully Responsive Design
 Optimized for desktop, tablet, and mobile devices.
 
-Secure & Accessible
+- Secure & Accessible
 Built with modern web technologies and HTTPS support for secure camera access and safer browsing.
 
 
@@ -66,37 +73,9 @@ Tech Stack
 
 VerifyNG is built using modern web technologies including:
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive UI Design
-- Camera & Barcode Scanning APIs
-- AI-powered assistance integration
-- GitHub for version control
 - Google AI Studio
+- GitHub for version control
 - Vercel for deployment
-
-The Problem We’re Solving:
-
-Millions of consumers unknowingly purchase fake or unsafe products due to:
-- lack of accessible verification systems
-- low public awareness
-- poor transparency
-- limited real-time product validation tools
-
-This creates risks to health, safety, and trust.
-VerifyNG provides a faster and smarter solution.
-
-Our Solution:
-
-VerifyNG bridges the gap between consumers and trusted product information through:
-- instant verification tools
-- real-time scanning
-- AI-assisted analysis
-- counterfeit reporting systems
-- simplified product safety education
-
-The goal is simple: Help consumers verify before they trust.
 
 Future Plans:
 
