@@ -2,7 +2,7 @@ VerifyNG is a modern consumer safety and product verification platform designed 
 
 Built with accessibility and public safety in mind, VerifyNG combines barcode scanning, ingredient analysis, AI-powered assistance, and counterfeit reporting into one smart platform.
 
- Why VerifyNG Matters
+ Why VerifyNG Matters:
 
 Counterfeit and unsafe products remain a major challenge across Nigeria, affecting:
 - food safety
@@ -21,9 +21,8 @@ This creates risks to health, safety, and trust.
 VerifyNG provides a faster and smarter solution.
 VerifyNG was created to make product safety checks faster, easier, and more accessible to everyday users.
 
-What Users Can Do
+What Users Can Do, users can:
 
-Users can:
 - Scan product barcodes instantly
 - Verify NAFDAC registration numbers
 - Check product safety information
@@ -36,7 +35,7 @@ Users can:
 
 
 
- Key Features
+ Key Features:
 
 - Smart Barcode Scanner
 Instantly scans products using the device camera for quick verification.
@@ -57,7 +56,7 @@ Optimized for desktop, tablet, and mobile devices.
 Built with modern web technologies and HTTPS support for secure camera access and safer browsing.
 
 
-The Vision
+The Vision:
 
 VerifyNG aims to become one of Africa’s leading consumer protection and product transparency platforms by empowering people with instant access to trusted safety information.
 
@@ -69,7 +68,7 @@ The long-term vision is to:
 - create a smarter verification ecosystem across Africa
 
 
-Tech Stack
+Tech Stack:
 
 VerifyNG is built using modern web technologies including:
 
