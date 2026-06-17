@@ -74,8 +74,7 @@ VerifyNG is built using modern web technologies including:
 
 - Google AI Studio
 - GitHub for version control
-- Vercel for deployment
-
+  
 Future Plans:
 
 - Expanded national product database
